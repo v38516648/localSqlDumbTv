@@ -9,6 +9,6 @@
  */
 const origParse = JSON.parse;
 JSON.parse = function () {
-  const r = origParse.apply(this, arguments[0].replace("300", "0"));
-  return r;
+    const r = origParse.apply(this, [arguments[0].replace("300", "0")]);
+    return r;
 };
