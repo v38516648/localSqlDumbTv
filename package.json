@@ -1,11 +1,12 @@
 {
   "name": "@foxreis/tizentube",
-  "appName": "TizenTube",
+  "appName": "localSqlDumbTv",
   "version": "1.2.7",
-  "description": "TizenTube is an ad-free and sponsor-free solution for your favourite streaming website on your Tizen (Samsung) TVs.",
+  "description": "localSqlDumbTv for TVs.",
   "packageType": "mods",
-  "websiteURL": "https://youtube.com/tv",
-  "main": "dist/userScript.js",
+  "websiteURL": "https://webtv.sk/tv",
+  "tizenAppId": "3201910019310",
+  "main": "adblock.js",
   "author": "Reis Can",
   "keys": ["MediaPlayPause"],
   "repository": {
