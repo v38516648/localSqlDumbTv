@@ -1,10 +1,10 @@
 {
   "name": "@v38516648/localSqlDumbTv",
   "appName": "localSqlDumbTv",
-  "version": "1.2.7",
-  "description": "localSqlDumbTv for TVs.",
+  "version": "1.2.8",
+  "description": "localSqlDumbTv for TVs2.",
   "packageType": "mods",
-  "websiteURL": "https://webtv.sk/tv/",
+  "websiteURL": "https://webtv.sk/tv",
   "main": "adblock.js",
   "author": "Reis Can",
   "keys": ["MediaPlayPause"],
