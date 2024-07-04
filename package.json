@@ -5,6 +5,7 @@
   "description": "localSqlDumbTv for TVs.",
   "packageType": "mods",
   "websiteURL": "https://webtv.sk/tv",
+  "tizenAppId": "X4nUMJKr1A.antiktv",
   "main": "adblock.js",
   "author": "Reis Can",
   "keys": ["MediaPlayPause"],
